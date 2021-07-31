@@ -1,0 +1,86 @@
+1
+123121234
+12312123
+123-121-234
+123 ab 1234
+12 312 123 4
+123 12 1234
+exit
+2
+123121234
+12312123
+123-121-234
+123 ab 1234
+132-12-1234
+123 12 1234
+exit
+3
+123456789
+123-00-1234
+912-12-1234
+912-92-1234
+000-12-2134
+876 12-1234
+exit
+4
+5095551234
+1 5095551234
++1 509-555-1234
++1 (509)555-1234
++1(509-555-1234
+exit
+5
+test@test.org
+test.two@test.org
+test.@test.org
+a.a@a
+exit
+6
+Jones, Bob M
+Turner Sally J
+Turner, Sally J A
+exit
+7
+01-01-2010
+01-01/2010
+1-1-2020
+02292020
+exit
+8
+123 S Spokane St
+123 Division
+1010 Test Avenue
+exit
+9
+Spokane, WA 12345
+Cheney WA 123AB
+Cheney, WA 12345-6789
+exit
+10
+23:59:59
+24:00:00
+02:62:13
+14:56
+15:ab
+exit
+11
+$123,456.78
+123.00
+$123,45.78
+exit
+12
+https://google.com
+http://GOOGLE.com
+ewu.edu
+exit
+13
+awe3A!asd#da2
+exit
+14
+never
+ever
+clever
+crater
+greater
+bigger
+exit
